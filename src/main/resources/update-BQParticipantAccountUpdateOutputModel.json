@@ -1,0 +1,13 @@
+{
+  "participantAccountInstanceRecord" : {
+    "participantAccountPostingTransaction" : {
+      "networkParticipantFacilityAccountPostingResult" : "networkParticipantFacilityAccountPostingResult",
+      "networkParticipantFacilityAccountPostingPurpose" : "networkParticipantFacilityAccountPostingPurpose",
+      "networkParticipantFacilityAccountPostingAmount" : "USD 250",
+      "networkParticipantFacilityAccountPostingValueDate" : "09-22-2018"
+    }
+  },
+  "updateResponseRecord" : {},
+  "participantAccountUpdateActionTaskRecord" : {},
+  "participantAccountUpdateActionTaskReference" : "PAUATR757433"
+}

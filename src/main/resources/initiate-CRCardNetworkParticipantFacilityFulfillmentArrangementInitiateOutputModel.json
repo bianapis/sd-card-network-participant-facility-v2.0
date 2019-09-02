@@ -1,0 +1,13 @@
+{
+  "cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord" : {
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "participantIssuerBankServiceSchedule" : "participantIssuerBankServiceSchedule",
+    "facilityTerms" : "facilityTerms",
+    "participantAcquirerBankServiceSchedule" : "participantAcquirerBankServiceSchedule"
+  },
+  "cardNetworkParticipantFacilityFulfillmentArrangementInstanceStatus" : "cardNetworkParticipantFacilityFulfillmentArrangementInstanceStatus",
+  "cardNetworkParticipantFacilityFulfillmentArrangementInitiateActionReference" : "CNPFFAIAR720830",
+  "cardNetworkParticipantFacilityFulfillmentArrangementInitiateActionRecord" : {},
+  "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReference" : "CNPFFAIR787429"
+}

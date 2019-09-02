@@ -1,0 +1,14 @@
+{
+  "participantServiceExecuteActionTaskRecord" : {},
+  "participantServiceExecuteActionTaskReference" : "PSEATR704833",
+  "executeResponseRecord" : {},
+  "participantServiceInstanceRecord" : {
+    "participantServiceRecord" : {
+      "networkParticipantServiceDateTime" : "09-22-2018",
+      "networkParticipantServiceCharge" : "USD 250",
+      "networkParticipantNetworkServiceRequestWorkProduct" : "networkParticipantNetworkServiceRequestWorkProduct",
+      "networkParticipantNetworkServiceRequestResult" : "networkParticipantNetworkServiceRequestResult"
+    }
+  },
+  "participantServiceExecuteRecordReference" : "PSERR791054"
+}

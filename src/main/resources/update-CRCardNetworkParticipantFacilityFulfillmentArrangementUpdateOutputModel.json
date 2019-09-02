@@ -1,0 +1,17 @@
+{
+  "cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord" : {
+    "productServiceReference" : "787309",
+    "participantAcquirerBankReference" : "747702",
+    "customerReference" : "736335",
+    "participantIssuerBankReference" : "776941",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "partyReference" : "792905",
+    "participantIssuerBankServiceSchedule" : "participantIssuerBankServiceSchedule",
+    "facilityTerms" : "facilityTerms",
+    "participantAcquirerBankServiceSchedule" : "participantAcquirerBankServiceSchedule"
+  },
+  "cardNetworkParticipantFacilityFulfillmentArrangementUpdateActionTaskReference" : "CNPFFAUATR795386",
+  "updateResponseRecord" : {},
+  "cardNetworkParticipantFacilityFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

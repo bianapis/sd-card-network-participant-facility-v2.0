@@ -1,0 +1,115 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCRCardNetworkParticipantFacilityInstanceRecord;
+import org.bian.dto.CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceAnalysis;
+import org.bian.dto.CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceReportRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModel
+ */
+public class CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModel   {
+  private CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCRCardNetworkParticipantFacilityInstanceRecord cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord = null;
+
+  private String cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference = null;
+
+  private Object cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord = null;
+
+  private String cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse = null;
+
+  private CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceReportRecord cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord = null;
+
+  private CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceAnalysis cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis = null;
+
+
+  /**
+   * Get cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord
+   * @return cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord
+  **/
+
+  public CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCRCardNetworkParticipantFacilityInstanceRecord getCRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord() {
+    return cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord;
+  }
+
+  public void setCRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord(CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCRCardNetworkParticipantFacilityInstanceRecord cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord) {
+    this.cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord = cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Reference to a Card Network Participant Facility Fulfillment Arrangement instance retrieve service call 
+   * @return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference
+  **/
+
+  public String getCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference() {
+    return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+  public void setCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference(String cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference) {
+    this.cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference = cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Binary  general-info: The retrieve service call consolidated processing record 
+   * @return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord
+  **/
+
+  public Object getCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord() {
+    return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+  public void setCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord(Object cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord) {
+    this.cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord = cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Details of the retrieve action service response (lists returned reports) 
+   * @return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse
+  **/
+
+  public String getCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse() {
+    return cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse;
+  }
+
+  public void setCardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse(String cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse) {
+    this.cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse = cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse;
+  }
+
+
+  /**
+   * Get cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord
+   * @return cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord
+  **/
+
+  public CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceReportRecord getCardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord() {
+    return cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord;
+  }
+
+  public void setCardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord(CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceReportRecord cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord) {
+    this.cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord = cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord;
+  }
+
+
+  /**
+   * Get cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis
+   * @return cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis
+  **/
+
+  public CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceAnalysis getCardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis() {
+    return cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis;
+  }
+
+  public void setCardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis(CRCardNetworkParticipantFacilityFulfillmentArrangementRetrieveOutputModelCardNetworkParticipantFacilityInstanceAnalysis cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis) {
+    this.cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis = cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis;
+  }
+
+
+}
+

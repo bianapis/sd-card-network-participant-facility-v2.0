@@ -1,0 +1,38 @@
+{
+  "cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord" : {
+    "productServiceReference" : "780049",
+    "participantAcquirerBankReference" : "731140",
+    "customerReference" : "783958",
+    "participantIssuerBankReference" : "700027",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "partyReference" : "750812",
+    "participantIssuerBankServiceSchedule" : "participantIssuerBankServiceSchedule",
+    "facilityTerms" : "facilityTerms",
+    "participantAcquirerBankServiceSchedule" : "participantAcquirerBankServiceSchedule"
+  },
+  "participantServiceRetrieveActionResponse" : "participantServiceRetrieveActionResponse",
+  "participantServiceRetrieveActionTaskReference" : "PSRATR778757",
+  "participantServiceInstanceRecord" : {
+    "participantServiceRecord" : {
+      "networkParticipantServiceDateTime" : "09-22-2018",
+      "networkParticipantServiceCharge" : "USD 250",
+      "networkParticipantNetworkServiceRequestWorkProduct" : "networkParticipantNetworkServiceRequestWorkProduct",
+      "networkParticipantNetworkServiceRequestResult" : "networkParticipantNetworkServiceRequestResult",
+      "networkParticipantServiceType" : "networkParticipantServiceType"
+    }
+  },
+  "participantServiceRetrieveActionTaskRecord" : {},
+  "participantServiceInstanceAnalysis" : {
+    "participantServiceInstanceAnalysisParameters" : "participantServiceInstanceAnalysisParameters",
+    "participantServiceInstanceAnalysisReportType" : "participantServiceInstanceAnalysisReportType",
+    "participantServiceInstanceAnalysisRecord" : {},
+    "participantServiceInstanceAnalysisReport" : {}
+  },
+  "participantServiceInstanceReport" : {
+    "participantServiceInstanceReportParameters" : "participantServiceInstanceReportParameters",
+    "participantServiceInstanceReportType" : "participantServiceInstanceReportType",
+    "participantServiceInstanceReportRecord" : {},
+    "participantServiceInstanceReport" : {}
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord" : {
+    "productServiceReference" : "751720",
+    "participantAcquirerBankReference" : "706033",
+    "customerReference" : "736505",
+    "participantIssuerBankReference" : "721607",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "partyReference" : "742388",
+    "participantIssuerBankServiceSchedule" : "participantIssuerBankServiceSchedule",
+    "facilityTerms" : "facilityTerms",
+    "participantAcquirerBankServiceSchedule" : "participantAcquirerBankServiceSchedule"
+  },
+  "cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse" : "cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionResponse",
+  "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysis" : {
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysisData" : "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysisData",
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysisReport" : {},
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysisReportType" : "cardNetworkParticipantFacilityFulfillmentArrangementInstanceAnalysisReportType"
+  },
+  "cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskReference" : "CNPFFARATR722044",
+  "cardNetworkParticipantFacilityFulfillmentArrangementRetrieveActionTaskRecord" : {},
+  "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportRecord" : {
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReport" : {},
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportData" : "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportData",
+    "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportType" : "cardNetworkParticipantFacilityFulfillmentArrangementInstanceReportType"
+  }
+}

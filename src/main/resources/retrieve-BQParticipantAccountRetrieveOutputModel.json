@@ -1,0 +1,37 @@
+{
+  "cRCardNetworkParticipantFacilityFulfillmentArrangementInstanceRecord" : {
+    "productServiceReference" : "755467",
+    "participantAcquirerBankReference" : "735677",
+    "customerReference" : "757534",
+    "participantIssuerBankReference" : "716720",
+    "participantAcquirerBankClearingandSettlementTerms" : "participantAcquirerBankClearingandSettlementTerms",
+    "participantIssuerBankClearingandSettlementTerms" : "participantIssuerBankClearingandSettlementTerms",
+    "partyReference" : "728385",
+    "participantIssuerBankServiceSchedule" : "participantIssuerBankServiceSchedule",
+    "facilityTerms" : "facilityTerms",
+    "participantAcquirerBankServiceSchedule" : "participantAcquirerBankServiceSchedule"
+  },
+  "participantAccountRetrieveActionTaskReference" : "PARATR729336",
+  "participantAccountInstanceRecord" : {
+    "participantAccountPostingTransaction" : {
+      "networkParticipantFacilityAccountPostingResult" : "networkParticipantFacilityAccountPostingResult",
+      "networkParticipantFacilityAccountPostingPurpose" : "networkParticipantFacilityAccountPostingPurpose",
+      "networkParticipantFacilityAccountPostingAmount" : "USD 250",
+      "networkParticipantFacilityAccountPostingValueDate" : "09-22-2018"
+    }
+  },
+  "participantAccountInstanceAnalysis" : {
+    "participantAccountInstanceAnalysisRecord" : {},
+    "participantAccountInstanceAnalysisParameters" : "participantAccountInstanceAnalysisParameters",
+    "participantAccountInstanceAnalysisReport" : {},
+    "participantAccountInstanceAnalysisReportType" : "participantAccountInstanceAnalysisReportType"
+  },
+  "participantAccountRetrieveActionTaskRecord" : {},
+  "participantAccountInstanceReport" : {
+    "participantAccountInstanceReportParameters" : "participantAccountInstanceReportParameters",
+    "participantAccountInstanceReportType" : "participantAccountInstanceReportType",
+    "participantAccountInstanceReportRecord" : {},
+    "participantAccountInstanceReport" : {}
+  },
+  "participantAccountRetrieveActionResponse" : "participantAccountRetrieveActionResponse"
+}

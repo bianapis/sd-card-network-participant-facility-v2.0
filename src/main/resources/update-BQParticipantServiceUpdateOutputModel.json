@@ -1,0 +1,14 @@
+{
+  "participantServiceUpdateActionTaskReference" : "PSUATR700092",
+  "participantServiceInstanceRecord" : {
+    "participantServiceRecord" : {
+      "networkParticipantServiceDateTime" : "09-22-2018",
+      "networkParticipantServiceCharge" : "USD 250",
+      "networkParticipantNetworkServiceRequestWorkProduct" : "networkParticipantNetworkServiceRequestWorkProduct",
+      "networkParticipantNetworkServiceRequestResult" : "networkParticipantNetworkServiceRequestResult",
+      "networkParticipantServiceType" : "networkParticipantServiceType"
+    }
+  },
+  "updateResponseRecord" : {},
+  "participantServiceUpdateActionTaskRecord" : {}
+}
